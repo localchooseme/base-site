@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://webapp.serverless.pro"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Dynamic Created Site"
 theme = "ananke"
