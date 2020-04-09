@@ -2,3 +2,4 @@ baseURL = "https://webapp.serverless.pro"
 languageCode = "en-us"
 title = "Who Am I"
 theme = "ananke"
+enableRobotsTXT = true
